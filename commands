@@ -1,0 +1,5 @@
+show version
+show arp
+show route
+copy run start
+
